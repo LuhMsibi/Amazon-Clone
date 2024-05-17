@@ -1,0 +1,19 @@
+.home {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    z-index: 1;
+    max-width: 1500px;
+
+}
+
+.home__row {
+    display: flex;
+}
+
+.home__image {
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}

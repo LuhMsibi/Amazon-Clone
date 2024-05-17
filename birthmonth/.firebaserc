@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "challenge-93541",
+    "dev": "challenge-93541"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
